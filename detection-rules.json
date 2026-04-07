@@ -64,6 +64,7 @@
       "^https:\\/\\/[^/]*\\.cox\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.cloudtaxoffice\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.arborgold\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.arborgold\\.net(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
