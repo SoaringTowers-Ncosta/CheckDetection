@@ -60,6 +60,8 @@
       "^https:\\/\\/(?:[^/]*\\.)?zoom\\.us(/.*)?$",
       "^https:\\/\\/github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.intuit\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.cox\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
