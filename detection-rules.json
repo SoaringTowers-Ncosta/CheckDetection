@@ -65,6 +65,7 @@
       "^https:\\/\\/[^/]*\\.cloudtaxoffice\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.arborgold\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.arborgold\\.net(/.*)?$",
+      "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
