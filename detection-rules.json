@@ -66,6 +66,8 @@
       "^https:\\/\\/[^/]*\\.arborgold\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.arborgold\\.net(/.*)?$",
       "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
+      "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
+      "^https:\\/\\/myaccount-business\\.cox\\.com\\/cbma\\/unauth\\/login(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
