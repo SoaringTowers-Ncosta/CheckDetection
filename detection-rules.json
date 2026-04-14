@@ -65,6 +65,7 @@
       "^https:\\/\\/[^/]*\\.cloudtaxoffice\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.arborgold\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.arborgold\\.net(/.*)?$",
+      "^https:\\/\\/[^/]*\\.loom\\.com(/.*)?$",
       "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
       "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
       "^https:\\/\\/myaccount-business\\.cox\\.com\\/cbma\\/unauth\\/login(/.*)?$",
