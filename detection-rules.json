@@ -68,7 +68,9 @@
       "^https:\\/\\/[^/]*\\.loom\\.com(/.*)?$",
       "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
       "^https:\\/\\/ag-company-files-private\\.s3\\.amazonaws\\.com(/.*)?$",
+      "^https:\\/\\/bbsi\\.app\\.box\\.com(/.*)?$",
       "^https:\\/\\/myaccount-business\\.cox\\.com\\/cbma\\/unauth\\/login(/.*)?$",
+      
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
