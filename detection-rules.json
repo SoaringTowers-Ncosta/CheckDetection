@@ -73,6 +73,7 @@
       "^https:\\/\\/myaccount-business\\.cox\\.com\\/cbma\\/unauth\\/login(/.*)?$",
       "^https:\\/\\/orders\\.eswindows\\.co(/.*)?$",
       "^https:\\/\\/[^/]*\\.eswindows\\.co(/.*)?$",
+      "^https:\\/\\/[^/]*\\.wise\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
