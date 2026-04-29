@@ -76,7 +76,6 @@
       "^https:\\/\\/connect\\.kolbewindows\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.kolbewindows\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.wise\\.com(/.*)?$",
-      
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
