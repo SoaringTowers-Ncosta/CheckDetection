@@ -79,6 +79,7 @@
       "^https:\\/\\/[^/]*\\.wise\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.livechatinc\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.adobesign\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.officeclimatecontrol\\.net(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
