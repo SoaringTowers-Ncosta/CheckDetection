@@ -80,6 +80,7 @@
       "^https:\\/\\/[^/]*\\.livechatinc\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.adobesign\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.officeclimatecontrol\\.net(/.*)?$",
+      "^https:\\/\\/[^/]*\\.cablebullet\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
