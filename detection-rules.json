@@ -81,6 +81,7 @@
       "^https:\\/\\/[^/]*\\.adobesign\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.officeclimatecontrol\\.net(/.*)?$",
       "^https:\\/\\/[^/]*\\.cablebullet\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.box\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
