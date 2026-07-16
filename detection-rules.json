@@ -82,7 +82,8 @@
       "^https:\\/\\/[^/]*\\.officeclimatecontrol\\.net(/.*)?$",
       "^https:\\/\\/[^/]*\\.cablebullet\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.box\\.com(/.*)?$",
-      "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
+      "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
+      "^https:\\/\\/[^/]*\\.costcobusinessdelivery\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
