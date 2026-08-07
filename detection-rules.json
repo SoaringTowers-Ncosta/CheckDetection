@@ -83,7 +83,10 @@
       "^https:\\/\\/[^/]*\\.cablebullet\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.box\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
-      "^https:\\/\\/[^/]*\\.costcobusinessdelivery\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\.costcobusinessdelivery\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.liveoak\\.bank(/.*)?$",
+      "^https:\\/\\/[^/]*\\.salesforce-sites\\.com(/.*)?$"
+      
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
