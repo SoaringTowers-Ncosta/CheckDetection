@@ -85,7 +85,8 @@
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
       "^https:\\/\\/[^/]*\\.costcobusinessdelivery\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.liveoak\\.bank(/.*)?$",
-      "^https:\\/\\/[^/]*\\.salesforce-sites\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\.salesforce-sites\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.eswindows\\.com(/.*)?$"
       
     ],
     "context_indicators": {
