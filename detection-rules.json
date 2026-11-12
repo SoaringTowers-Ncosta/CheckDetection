@@ -87,7 +87,8 @@
       "^https:\\/\\/[^/]*\\.costcobusinessdelivery\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.liveoak\\.bank(/.*)?$",
       "^https:\\/\\/[^/]*\\.salesforce-sites\\.com(/.*)?$",
-      "^https:\\/\\/[^/]*\\.myaccount-business.cox\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\.myaccount-business.cox\\.com(/.*)?$",
+      "^https:\\/\\/apps\\.usw2\\.pure\\.cloud(/.*)?$"
       
     ],
     "context_indicators": {
